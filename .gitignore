@@ -1,0 +1,6 @@
+# Uncropped source photo — kept locally, not published
+assets/profile.jpeg
+
+# OS / editor cruft
+.DS_Store
+.claude/
