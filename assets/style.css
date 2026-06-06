@@ -461,3 +461,14 @@ html[lang="ja"] .section-title { letter-spacing: .08em; }
 }
 .theme-toggle:hover { color: var(--accent); border-color: var(--accent); transform: translateY(-1px); }
 .theme-toggle svg { width: 16px; height: 16px; }
+
+/* project thumbnail */
+.proj-img {
+  display: block;
+  margin-top: 12px;
+  max-width: 320px;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+}
